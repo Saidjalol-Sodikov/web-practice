@@ -1,0 +1,54 @@
+a {
+    text-decoration: none;
+}
+
+.link__menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.form__input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 30px;
+}
+
+.form__button {
+    font-size: medium;
+    width: auto;
+    height: auto;
+}
+
+.pic__product {
+    border-style:groove;
+    border-width: 5px;
+    border-radius: 20px;
+}
